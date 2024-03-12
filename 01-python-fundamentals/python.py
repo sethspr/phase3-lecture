@@ -1,6 +1,8 @@
 # Variables
 my_var = 1  # we use snake case in Python
 MY_CONSTANT = "don't change me!"  # All variables are changeable in Python, programmers use all caps to signal when something should be a constant
+print(MY_CONSTANT)
+
 
 # Functions
 def my_func(param1, param2):
